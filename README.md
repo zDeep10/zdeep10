@@ -1,10 +1,10 @@
 # Ola! Eu sou o Gabriel Assunção
 - 🌱 Estou atualmente aprendendo ReactJS
 - 💻 E tambem disponivel para oportunidades de emprego!
-<div align="center" style="display: flex" >
-  <a href="https://github.com/zdeep10">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=zdeep10&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdeep10&layout=compact&langs_count=7&theme=vue-dark"/>
+
+<div align="center" style="display:flex; width:100%;" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=zdeep10&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdeep10&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 <!--Tecnologias   -->
